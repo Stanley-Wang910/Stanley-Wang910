@@ -10,7 +10,7 @@
 
 
 <div>
-  <a href="https://www.youtube.com/watch?v=vhLH-nkAxKA">Demo,</a>
+  <a href="https://www.youtube.com/watch?v=vhLH-nkAxKA">Demo</a>
   <a href="https://github.com/Stanley-Wang910/spotify-rec-engine">Source Code</a>
 </div>
 
