@@ -8,6 +8,13 @@
 
 <h4 align="left">🔭 I'm currently working a Spotify recommendation algorithm application called Trading Fours</h4>
 
+
+<div>
+  <a href="https://www.youtube.com/watch?v=vhLH-nkAxKA">Demo,</a>
+  <a href="https://github.com/Stanley-Wang910/spotify-rec-engine">Source Code</a>
+</div>
+
+
 ###
 
 <br clear="both">
