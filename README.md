@@ -9,17 +9,11 @@
   <a href="https://github.com/Stanley-Wang910/spotify-rec-engine">Source Code</a>
 </div>
 
-
-
-
 <br clear="both">
-
-
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Stanley-Wang910&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stanley-Wang910&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="140" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stanley-Wang910&radius=16&theme=tokyo-night&area=true&order=5&hide_title=false&hide_border=true" height="207" alt="activity-graph graph"  />
 </div>
 
 
