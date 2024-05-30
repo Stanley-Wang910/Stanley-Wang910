@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">I'm Stanley Wang, a computer science student at McGill University 🐦</h3>
+<h2 align="left">I'm Stanley Wang, a computer science student at McGill University 🐦</h2>
 
 ###
 
-<h4 align="left">🔭 I'm currently working a Spotify recommendation algorithm application called Trading Fours</h4>
+<h3 align="left">🔭 I'm currently working a Spotify recommendation algorithm application called Trading Fours</h3>
 
 
 <div>
