@@ -64,7 +64,7 @@
 
 <h4 align="left">Where you can find me 📫</h4>
 
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/stanley910/" target="_blank">
@@ -78,11 +78,10 @@
   </a>
 </div>
 
-###
 
 <h4 align="left">What I've been listening to 🎸</h4>
 
-###
+
 
 <div align="left">
   <a href="https://open.spotify.com/user/stan910boss">
@@ -90,7 +89,7 @@
   </a>
 </div>
 
-###
+
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Stanley-Wang910.Stanley-Wang910&left_color=palevioletred&right_color=skyblue&left_text=you%20are%20visitor%20number"  />
