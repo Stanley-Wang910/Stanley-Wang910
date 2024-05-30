@@ -1,10 +1,10 @@
 <img align="left" height="170" src="https://media.licdn.com/dms/image/D5603AQGlaSbjenPHlw/profile-displayphoto-shrink_800_800/0/1711639867625?e=1721865600&v=beta&t=_uknRrG5BoFQCMuTvBo6MWHFsr_d7F9f-6o-aHQefE0"  />
 
-###
+
 
 <h2 align="left">I'm Stanley Wang, a computer science student at McGill University 🐦</h2>
 
-###
+
 
 <h3 align="left">🔭 I'm currently working a Spotify recommendation algorithm application called Trading Fours</h3>
 
@@ -15,11 +15,11 @@
 </div>
 
 
-###
+
 
 <br clear="both">
 
-###
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Stanley-Wang910&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
@@ -27,11 +27,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stanley-Wang910&radius=16&theme=tokyo-night&area=true&order=5&hide_title=false&hide_border=true" height="207" alt="activity-graph graph"  />
 </div>
 
-###
+
 
 <h4 align="left">What I've been using ⚡</h4>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -61,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
+
 
 <h4 align="left">Where you can find me 📫</h4>
 
