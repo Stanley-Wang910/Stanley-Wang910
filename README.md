@@ -1,4 +1,3 @@
-<img align="left" height="185" src="https://media.licdn.com/dms/image/D5603AQGlaSbjenPHlw/profile-displayphoto-shrink_800_800/0/1711639867625?e=1721865600&v=beta&t=_uknRrG5BoFQCMuTvBo6MWHFsr_d7F9f-6o-aHQefE0"  />
 <h3 align="left">I'm Stanley Wang, a computer science student at McGill University 🐦</h3>
 <h4 align="left">I'm currently working a Spotify recommendation algorithm application called Trading Fours 🎼</h4>
 
